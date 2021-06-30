@@ -9,3 +9,10 @@ class Solution {
         return product-sum;
     }
 }
+main(){
+solution ob;
+count<<ob.subtractProductAnd Sum(5362);
+}
+
+
+output=164
